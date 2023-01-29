@@ -2,7 +2,7 @@ import './App.css'
 import { useState } from 'react'
 import { faker } from '@faker-js/faker'
 import Modal from 'react-modal'
-
+// Modal code example by Ben Merryman | 2023-01-28
 function fakeQuote () {
   return `${faker.lorem.sentence()} - ${faker.name.findName()}`
 }
