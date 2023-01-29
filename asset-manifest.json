@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/modal-demo/static/css/main.073c9b0a.css",
+    "main.js": "/modal-demo/static/js/main.6a20d464.js",
+    "static/js/787.12af01cb.chunk.js": "/modal-demo/static/js/787.12af01cb.chunk.js",
+    "index.html": "/modal-demo/index.html",
+    "main.073c9b0a.css.map": "/modal-demo/static/css/main.073c9b0a.css.map",
+    "main.6a20d464.js.map": "/modal-demo/static/js/main.6a20d464.js.map",
+    "787.12af01cb.chunk.js.map": "/modal-demo/static/js/787.12af01cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6a20d464.js"
+  ]
+}
